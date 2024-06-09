@@ -1,0 +1,45 @@
+header{
+    height: 500px;
+    background-color: darkorange;
+    text-align: center;
+    color: rgb(86, 0, 0);
+    padding: 45px;
+    font-size: 70px;
+    background-image: url(https://t4.ftcdn.net/jpg/04/80/44/21/360_F_480442195_iZqUxOOCWwXzhfizZGTCJuMfLT11tT3X.jpg);
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin: 0px;
+    background-color: rgba(255, 217, 0, 0.469);
+}
+
+main{
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    font-size: 25px;
+    background-color: rgb(47, 12, 12);
+}
+.steps{
+    text-align: center;
+}
+.cheesehistory{
+    background-image: url(https://www.shutterstock.com/image-photo/emmental-cheese-triangle-swiss-isolated-260nw-1932677639.jpg);
+    background-size: cover;
+}
+.info img{
+    width: 50px;
+    padding-right: 20px;
+}
+.info{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
